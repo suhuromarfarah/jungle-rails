@@ -1,8 +1,5 @@
 require 'rails_helper'
 
-
-
-
 RSpec.feature "AddToCarts", type: :feature, js: true do
 
       # SETUP
